@@ -1,4 +1,5 @@
-## IntroToProg-Python-Mod07 Repository
-Repository for Module 7 and Assignment 7 for intro to programming Python
-
-# Assignment 07 Documentation
+#### Chiyo Miyake
+#### 2023.03.01
+#### IT FDN 110 A
+#### Assignment 07
+# Assignment 07: Examples of Pickling and Exception Handling
